@@ -12,6 +12,11 @@ Temperature sensor circuit for OpenRule1um
 
 ![schematic](https://user-images.githubusercontent.com/37934321/131438241-7f870b49-fde6-4c66-b47c-31f6e18e25c4.png)
 
+### References
+
+1. J. He, C. Zhao, S.-H. Lee, K. Peterson, R. Geiger, and D. Chen, “Highly linear very compact untrimmed on-chip temperature sensor with second and third order temperature compensation,” in 2010 53rd IEEE International Midwest Symposium on Circuits and Systems, Aug. 2010, pp. 288–291. doi: 10.1109/MWSCAS.2010.5548802.
+1. S. Mandal, S. Arfin, and R. Sarpeshkar, “Fast startup CMOS current references,” in 2006 IEEE International Symposium on Circuits and Systems, May 2006, p. 4 pp.-. doi: 10.1109/ISCAS.2006.1693217.
+
 ## Layout
 
 The active area is 52 um x 59.5 um.
