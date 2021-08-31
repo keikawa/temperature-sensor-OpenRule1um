@@ -15,7 +15,7 @@ Temperature sensor circuit for OpenRule1um
 ### References
 
 1. J. He, C. Zhao, S.-H. Lee, K. Peterson, R. Geiger, and D. Chen, “Highly linear very compact untrimmed on-chip temperature sensor with second and third order temperature compensation,” in 2010 53rd IEEE International Midwest Symposium on Circuits and Systems, Aug. 2010, pp. 288–291. doi: 10.1109/MWSCAS.2010.5548802.
-1. S. Mandal, S. Arfin, and R. Sarpeshkar, “Fast startup CMOS current references,” in 2006 IEEE International Symposium on Circuits and Systems, May 2006, p. 4 pp.-. doi: 10.1109/ISCAS.2006.1693217.
+1. S. Mandal, S. Arfin, and R. Sarpeshkar, “Fast startup CMOS current references,” in 2006 IEEE International Symposium on Circuits and Systems, May 2006, pp. 2845–2848. doi: 10.1109/ISCAS.2006.1693217.
 
 ## Layout
 
