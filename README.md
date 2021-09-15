@@ -6,7 +6,7 @@ Temperature sensor circuit for OpenRule1um
 
 - KLayout 0.26.9
 - KiCad 5.1.7
-- PCell v1.94
+- PCell v1.9
 
 ## Schematic
 
