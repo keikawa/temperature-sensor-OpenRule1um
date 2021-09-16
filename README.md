@@ -21,7 +21,7 @@ Temperature sensor circuit for OpenRule1um
 
 The active area is 52 um x 59.5 um.
 
-![layout](https://user-images.githubusercontent.com/37934321/133379530-73304032-8037-4b2f-87af-7a6313b443b2.png)
+![layout](https://user-images.githubusercontent.com/37934321/133556830-61b6b82e-3db6-4ddf-9417-f4888f8a4851.png)
 
 ## Simulation result
 
