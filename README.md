@@ -23,13 +23,13 @@ The active area is 52 um x 59.5 um.
 
 ![layout](https://user-images.githubusercontent.com/37934321/133556830-61b6b82e-3db6-4ddf-9417-f4888f8a4851.png)
 
-## Simulation result
+## Measurement result
 
 The output voltage varies linearly with temperature.
 
-![simulation_result](https://user-images.githubusercontent.com/37934321/131438464-6496f023-0aa7-49e9-9d33-c30e191af3fd.png)
+![temp_sens_meas](https://user-images.githubusercontent.com/37934321/161897071-a5d7e172-5368-40ee-a263-178f7d9243eb.svg)
 
-## Author
+## Designer
 
 Keisuke Kawahara  
 
