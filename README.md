@@ -27,7 +27,7 @@ The active area is 52 um x 59.5 um.
 
 The output voltage varies linearly with temperature.
 
-![temp_sens_meas](https://user-images.githubusercontent.com/37934321/161897071-a5d7e172-5368-40ee-a263-178f7d9243eb.svg)
+![temp_sens_meas](https://user-images.githubusercontent.com/37934321/161897372-5d8c0eb0-6495-47de-b684-0bd285a65dbe.svg)
 
 ## Designer
 
