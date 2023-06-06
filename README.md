@@ -29,9 +29,6 @@ The output voltage varies linearly with temperature.
 
 ![temp_sens_meas](https://user-images.githubusercontent.com/37934321/162574846-f65b9fd0-d764-419c-9c20-80a6f3bd00ff.svg)
 
-## Designer
-
-Keisuke Kawahara  
 
 ## Licence
 
